@@ -1,0 +1,11 @@
+html
+{
+    font-size: 62.5%;
+    font-family: Helvetica
+}
+
+.Characters
+{
+    display: grid;
+    padding: 1rem 1rem 1rem;
+}
